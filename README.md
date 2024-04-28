@@ -18,7 +18,7 @@ Before running the bot, you need to have Python installed on your machine. Addit
 
 1. Clone the repository:
    ```
-   git clone [<repository-url>](https://github.com/turman17/Weather-telegram-bot.git)
+   git clone https://github.com/turman17/Weather-telegram-bot.git
    ```
 
 2. Install the required Python packages:
